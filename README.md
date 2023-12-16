@@ -1,4 +1,4 @@
-# OOP_training_tasks
+# dungeon_generation
 
 ## create_dungeon.py ## 
 A program that generates a random 2D text maze of the desired size specified by the entity (x, y).
